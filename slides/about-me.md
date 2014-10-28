@@ -1,4 +1,4 @@
-<!-- .slide: data-background="../assets/images/bg-assets/slide-3.jpg" data-background-size="cover" -->
+<!-- .slide: data-background="assets/images/bg-assets/slide-3.jpg" data-background-size="cover" -->
 
 ##  About Me
 

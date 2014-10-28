@@ -1,4 +1,4 @@
-<!-- .slide: data-background="../assets/images/bg-coffee.gif" -->
+<!-- .slide: data-background="assets/images/bg-coffee.gif" -->
 <div class="coffee">
 ##  application.coffee
 ##### For an explanation of the steroids.config properties, see the guide at 
