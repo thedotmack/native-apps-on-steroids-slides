@@ -9,5 +9,4 @@ In `app/controllers/photo_gallery.js`
     singleView.preload();
 
 Note:
-This is so the page exists for the data we're about to pass it.
-
+This is so the WebView exists for the data we're about to pass it.

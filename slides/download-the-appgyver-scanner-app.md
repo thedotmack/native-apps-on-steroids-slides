@@ -3,3 +3,7 @@
 
 - http://internets.io/scanner-ios
 - http://internets.io/scanner-android
+
+Note:
+Going to show you guys a magic trick
+Search AppGyver Scanner in the App Store or Google Play store

@@ -7,4 +7,4 @@
 <small>http://github.com/thedotmack/instatim</small>
 
 Note:
-Demo in simulator
+Open Quicktime with Phone Plugged In

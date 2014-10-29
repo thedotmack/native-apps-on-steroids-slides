@@ -4,3 +4,7 @@
 
 ### `<h1>INSERT APP HERE</h1>`
 
+Note:
+- Apache Cordova (Formerly PhoneGap) 
+- Build native mobile apps using HTML, CSS and JavaScript
+- Single page apps in a WebView

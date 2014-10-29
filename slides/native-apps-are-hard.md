@@ -6,3 +6,7 @@
 <img src="assets/images/Apple_Swift_Logo.png" width="180" alt="Swift"> 
 <img src="assets/images/java-logo-transparent.png" height="180" alt="Xcode"> 
 <img src="assets/images/1024px-Android_logo.png" height="180" alt="Xcode">
+
+Note:
+Objectve C / Swift / Java
+Steep learning curve for web developers

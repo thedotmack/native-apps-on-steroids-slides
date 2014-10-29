@@ -18,3 +18,8 @@
     }
 
 <small>http://docs.appgyver.com/en/stable/index.html</small>
+
+Note:
+- Access cordova apis
+- Accelerometer, Camera, Contacts, Geolocation and more
+- All documented on Steroids' site

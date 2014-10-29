@@ -15,3 +15,7 @@
                 └── photo_gallery.html
 
 #### Steroids will take the `app` folder and compile it so you can keep DRY (Don't repeat yourself)
+
+Note:
+- Set up in a model / view / controller way
+- Steroids builds these files for you

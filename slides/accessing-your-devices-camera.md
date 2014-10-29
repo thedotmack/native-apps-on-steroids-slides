@@ -17,3 +17,6 @@
     }
 
 <small>http://docs.appgyver.com/en/stable/cordova_camera_camera.md.html</small>
+
+Note:
+Basically just functions with a success and error callback

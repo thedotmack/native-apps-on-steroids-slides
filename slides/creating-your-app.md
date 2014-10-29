@@ -2,6 +2,6 @@
 
 Steroids comes packed with some nifty command-line tools that make app development a breeze.
 
-- `steroids create` 
-- `steroids connect`
-- `steroids deploy`
+### `steroids create` <!-- .element: class="fragment" -->
+### `steroids connect` <!-- .element: class="fragment" -->
+### `steroids deploy` <!-- .element: class="fragment" -->

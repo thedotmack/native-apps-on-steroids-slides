@@ -15,3 +15,5 @@ Set in `config/application.coffee`
         location: "http://localhost/views/photo_gallery/feed.html"
       }
     ]
+
+Note:

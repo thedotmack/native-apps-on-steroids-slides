@@ -3,3 +3,6 @@
 #  Native Apps Are The Future <!-- .element: style="font-size: 100px" -->
 
 <img src="assets/images/the-future.gif" width="640" alt="The Future!">
+
+Note:
+- PERFORMANCE!

@@ -7,8 +7,13 @@
 ### Cross-platform from the get go. <!-- .element: class="fragment" -->
 
 Note:
-1) Steroids allows you to create multiple WebViews that you can switch between using native transitions, creating a much smoother app experience
-
-2) Steroids doesn't require you to use any other software to compile, test, and deploy your apps. It's all handled by Steroids' magical command-line interface
-
-3) Apps built with Steroids work on iOS and Android from the get go. Through a single codebase you'll be able to test and deploy on multiple platforms
+- Uses Multiples WebViews 
+- Uses Native UI elements
+    - Title Bar
+    - Tabs Bar
+    - Drawers   
+- Is a much smoother app experience
+- Steroids' magical command line interface
+- Compile, test and deploy right from the command line
+- iOS and Android from the get go
+- Deploy on multiple platforms from a single codebase

@@ -13,4 +13,6 @@ In `app/controllers/photo_gallery.js`
     });
 
 Note:
-The way shared data works, is that we're going to use the HTML5 postmessage API. We're going to send the message in one webview while listening for that message in our target webview.
+- Uses the HTML5 postmessage API. 
+- send the message in one webview
+- listening for that message in our target webview
